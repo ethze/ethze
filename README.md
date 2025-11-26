@@ -1,9 +1,7 @@
 # Hey there, I'm Aldi Yusron [Azar]
 ### Fullstack Developer passionate about building robust and scalable applications
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ethze/gif-rchive/b5d5c609726be37fd4bc9967665b61043e423928/devil-pixel.gif" alt="Devil Pixel" width="200"/>
-</div>
+<img align="right" src="https://raw.githubusercontent.com/ethze/gif-rchive/b5d5c609726be37fd4bc9967665b61043e423928/devil-pixel.gif" alt="Devil Pixel" width="100"/>
 
 Currently diving deep into modern backend architecture with a focus on type-safety and performance. I love creating clean, maintainable code and smooth user experiences.
 

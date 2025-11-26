@@ -37,8 +37,6 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 ### Environment:
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat&logo=archlinux&logoColor=white)
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ethze/gif-rchive/b5d5c609726be37fd4bc9967665b61043e423928/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Footer" width="100%"/>
 </div>

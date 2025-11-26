@@ -31,7 +31,7 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 
 ---
 
-### 🌱 I'm currently learning:
+### I'm currently learning:
 - Advanced TypeScript patterns
 - Microservices architecture with Fastify
 - Database optimization with Prisma

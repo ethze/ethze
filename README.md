@@ -11,6 +11,9 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 ---
 
 ### ⚙️ Tech Stack:
+
+<img align="right" src="https://raw.githubusercontent.com/ethze/gif-rchive/b5d5c609726be37fd4bc9967665b61043e423928/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="Coding" width="150"/>
+
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)

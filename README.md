@@ -8,8 +8,6 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 #### Connect with me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aldiyusronazhar/) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ethze) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:aldiyusronazhar@gmail.com)
 
----
-
 ### ⚙️ Tech Stack:
 
 <img align="right" src="https://raw.githubusercontent.com/ethze/gif-rchive/b5d5c609726be37fd4bc9967665b61043e423928/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="Coding" width="150"/>
@@ -32,8 +30,6 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 ![Vim](https://img.shields.io/badge/Vim-000000?style=flat-square&logo=vim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-000000?style=flat-square&logo=zedindustries&logoColor=white)
 
----
-
 ### I'm currently learning:
 - Advanced TypeScript patterns
 - Microservices architecture with Fastify
@@ -41,11 +37,7 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 - Real-time features with WebSockets
 - Server-side rendering with Next.js 15
 
----
-
 ### Environment:
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat&logo=archlinux&logoColor=white)
-
----
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*

@@ -31,12 +31,16 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 ![Zed](https://img.shields.io/badge/Zed-000000?style=flat-square&logo=zedindustries&logoColor=white)
 
 ### I'm currently learning:
+- Advanced TypeScript patterns
 - Microservices architecture with Fastify
 - Database optimization with Prisma
 - Real-time features with WebSockets
-
+- Server-side rendering with Next.js 15
 
 ### Environment:
+
+<img align="right" src="https://raw.githubusercontent.com/ethze/gif-rchive/475a3c67078c37c2a3658fa8b8ab348faa4c8dc4/30c210344bbbcde4d5542c02a0cb908b.gif" alt="Arch Linux" width="150"/>
+
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat&logo=archlinux&logoColor=white)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*

@@ -1,4 +1,4 @@
-# Hey there, I'm Aldi Yusron [Azar] <img src="https://raw.githubusercontent.com/ethze/gif-rchive/5eaaf0307df6cf8ad869b9dc1b65e400fa9f735b/heart-black.gif" alt="Heart" width="30"/>
+# Hey there, I'm Aldi Yusron <img src="https://raw.githubusercontent.com/ethze/gif-rchive/5eaaf0307df6cf8ad869b9dc1b65e400fa9f735b/heart-black.gif" alt="Heart" width="30"/>
 ### Fullstack Developer passionate about building robust and scalable applications
 <!-- <img align="right" src="https://raw.githubusercontent.com/ethze/gif-rchive/5eaaf0307df6cf8ad869b9dc1b65e400fa9f735b/infinite-the-jackal-fnf-vs-infinite.gif" alt="Infinite the Jackal" width="100"/> -->
 
